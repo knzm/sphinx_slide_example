@@ -1,0 +1,7 @@
+.installed.cfg
+bin/
+include/
+lib/
+eggs/
+parts/
+doc/_build/
