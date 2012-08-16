@@ -168,6 +168,8 @@ html_static_path = ['_static']
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'sphinx_slide_exampledoc'
 
+html_add_permalinks = False
+
 
 # -- Options for LaTeX output --------------------------------------------------
 
